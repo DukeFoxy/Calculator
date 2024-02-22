@@ -21,5 +21,4 @@ body {
     display: grid;
     place-content: center ;
     background: var(--background-color);
-    background: var(--complementary-color);
 }
